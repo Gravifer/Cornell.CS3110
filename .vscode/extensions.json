@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ocamllabs.ocaml-platform",
+        "edwinhuish.better-comments-next",
+        "naumovs.color-highlight",
+        "vivaxy.vscode-conventional-commits",
+        "editorconfig.editorconfig",
+        "peterschmalfeldt.explorer-exclude",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "ms-vscode.hexeditor",
+        "adrianwilczynski.toggle-hidden"
+    ]
+}
