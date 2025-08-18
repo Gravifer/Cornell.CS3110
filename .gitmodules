@@ -1,0 +1,6 @@
+[submodule "reference-code/featherwit001"]
+	path = reference-code/featherwit001
+	url = https://github.com/featherwit001/CS3110_OCaml_Programming.git
+[submodule "reference-code/textbook-solutions"]
+	path = reference-code/textbook-solutions
+	url = https://github.com/cs3110/textbook-solutions.git
